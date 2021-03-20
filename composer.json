@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\alexdev\\php-classes\\src"
+            "Alex\\": "vendor\\alexdev\\php-classes\\src"
         }
     }
 }

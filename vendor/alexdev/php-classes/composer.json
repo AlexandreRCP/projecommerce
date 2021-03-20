@@ -1,0 +1,22 @@
+{
+    "name": "alexandrercp/php-classes",
+    "minimum-stability": "dev",
+    "type": "library",
+    "description": "Classes PHP",
+    "homepage": "https://github.com/AlexandreRCP/php-classes",
+    "authors": [
+        {
+            "name": "Alexandre Desenvolvimentos",
+            "email": "alex.rcp.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "rain/raintpl":"3.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src"
+        }
+    }
+}
